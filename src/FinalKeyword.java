@@ -7,8 +7,8 @@ public final class FinalKeyword {
 
    }
 
-   class Child extends FinalKeyword{
+   //class Child extends FinalKeyword{
 
  // we can't inherit a final class
-   }
+   //}
 }
